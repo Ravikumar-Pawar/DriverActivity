@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "1091914544223",
+    "firebase_url": "https://bus-track-and-fuel-monitoring.firebaseio.com",
+    "project_id": "bus-track-and-fuel-monitoring",
+    "storage_bucket": "bus-track-and-fuel-monitoring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091914544223:android:fb7e7a680fc76550",
+        "android_client_info": {
+          "package_name": "com.example.bustrackingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091914544223-iu76pfp155onn3clcn061ri5hqqq2613.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bustrackingsystem",
+            "certificate_hash": "67ca62b1ba14ca01168d9e5f50305e8e60e8bd2a"
+          }
+        },
+        {
+          "client_id": "1091914544223-tmg3domm3emu40g94jveqja0na7orhtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9RmdWEtVlSPCb2lhIxxG974H3YmJve-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091914544223-tmg3domm3emu40g94jveqja0na7orhtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091914544223:android:a4f4fa8268c8196b",
+        "android_client_info": {
+          "package_name": "com.example.driveractivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091914544223-fd8fncqometmcbjlfder577israkq9rd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.driveractivity",
+            "certificate_hash": "67ca62b1ba14ca01168d9e5f50305e8e60e8bd2a"
+          }
+        },
+        {
+          "client_id": "1091914544223-tmg3domm3emu40g94jveqja0na7orhtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9RmdWEtVlSPCb2lhIxxG974H3YmJve-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091914544223-tmg3domm3emu40g94jveqja0na7orhtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
